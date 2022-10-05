@@ -7,3 +7,6 @@ h1 {
 p{
     text-align: center; color: aqua;
 }
+h1 b i {
+    text-align: center; color: aliceblue;
+}
